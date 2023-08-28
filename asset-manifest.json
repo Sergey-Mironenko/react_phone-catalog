@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.4d7a01c0.chunk.css",
-    "main.js": "./static/js/main.54658567.chunk.js",
-    "main.js.map": "./static/js/main.54658567.chunk.js.map",
+    "main.css": "./static/css/main.5e4e3afe.chunk.css",
+    "main.js": "./static/js/main.384a9786.chunk.js",
+    "main.js.map": "./static/js/main.384a9786.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.de7a1d08.chunk.js": "./static/js/2.de7a1d08.chunk.js",
     "static/js/2.de7a1d08.chunk.js.map": "./static/js/2.de7a1d08.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.4d7a01c0.chunk.css.map": "./static/css/main.4d7a01c0.chunk.css.map",
+    "static/css/main.5e4e3afe.chunk.css.map": "./static/css/main.5e4e3afe.chunk.css.map",
     "static/js/2.de7a1d08.chunk.js.LICENSE.txt": "./static/js/2.de7a1d08.chunk.js.LICENSE.txt",
     "static/media/main.scss": "./static/media/Tablets.386969cc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.de7a1d08.chunk.js",
-    "static/css/main.4d7a01c0.chunk.css",
-    "static/js/main.54658567.chunk.js"
+    "static/css/main.5e4e3afe.chunk.css",
+    "static/js/main.384a9786.chunk.js"
   ]
 }
